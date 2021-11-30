@@ -1,0 +1,54 @@
+body {
+    background-image: url(./images/anyine.webp);
+    color: white;
+    font-family: 'Lemonada', cursive;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(29, 28, 28, 0.637);
+    margin: 50px 0px 0px 0px;
+    padding: 100px;
+
+}
+
+button {
+    font-size: 30px;
+    background-color: rgba(128, 128, 128, 0.616);
+    padding: 15px;
+    margin: 10px;
+    color: white;
+    font-family: 'Lemonada', cursive;
+}
+
+img {
+    width: 5%;
+}
+
+@media only screen and (max-width:650px) {
+    img {
+        width: 30%;
+    }
+
+
+.container {
+   
+    margin: 20px 0px 0px 0px;
+  
+}
+
+
+
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}

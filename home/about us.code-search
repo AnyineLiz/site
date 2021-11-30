@@ -1,0 +1,32 @@
+# Query: about us
+# ContextLines: 1
+
+6 results - 4 files
+
+about form\about.html:
+   7      <link rel="stylesheet" href="./font-awesome-4.7.0/css/font-awesome.min.css">
+   8:     <title>About Us</title>
+   9      
+
+  17              <li><a href="../home/home.html">Home</a></li>
+  18:             <li><a href="../about form/about.html">About Us</a></li>
+  19              <li><a href="../contactUs/contact.html">Contact Us</a></li>
+
+  27          <div class="about-section">
+  28:             <h1>About Us</h1>
+  29              <p>Committed to bringing you the best skincare products</p>
+
+contactUs\contact.html:
+  22          <li><a href="../home/home.html">Home</a></li>
+  23:         <li><a href="../about form/about.html">About Us</a></li>
+  24          <li><a href="../contactUs/contact.html">Contact Us</a></li>
+
+home\home.html:
+  23          <li><a href="#">Home</a></li>
+  24:         <li><a href="../about form/about.html">About Us</a></li>
+  25          <li><a href="../contactUs/contact.html">Contact Us</a></li>
+
+menu\menu.html:
+  22          <li><a href="../home/home.html">Home</a></li>
+  23:         <li><a href="../about form/about.html">About Us</a></li>
+  24          <li><a href="../contactUs/contact.html">Contact Us</a></li>
